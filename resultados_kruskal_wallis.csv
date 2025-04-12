@@ -1,0 +1,5 @@
+Base de Datos,Estadístico H,Valor p,Conclusión
+datos8,2.463279733206981,0.11653522649603196,No hay diferencias significativas entre los algoritmos.
+golub_cleaned,45.13640556508481,1.8377702220128268e-11,Hay diferencias significativas entre los algoritmos.
+diabetes,77.4841039382197,1.4946538054846987e-17,Hay diferencias significativas entre los algoritmos.
+iris,93.94468334984255,3.982641441602961e-21,Hay diferencias significativas entre los algoritmos.
